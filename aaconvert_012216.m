@@ -27,3 +27,5 @@ x = strrep(x,'W',' 4 ');
 x = strrep(x,'C',' 4 ');
 
 end
+
+Test
